@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Valencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-07T16:05:23.576Z",
+      "notes": "Lovely",
+      "position": {
+        "lat": "39.46916418896649",
+        "lng": "-0.37877142777419837"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Kolkata",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-09T10:56:02.073Z",
+      "notes": "",
+      "position": {
+        "lat": "22.354278503669235",
+        "lng": "88.4576825038054"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-09T11:13:25.229Z",
+      "notes": "Outstanding City",
+      "position": {
+        "lat": "51.41983046149342",
+        "lng": "-0.13306386773147552"
+      },
+      "id": 98443205
+    }
+  ]
+}
